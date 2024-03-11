@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MLX75305_EvalBoard.PrjPcb]
+   Generated File[MLX75305_EvalBoard_Legend_Top.gbr]
+   Generated File[MLX75305_EvalBoard_Paste_Top.gbr]
+   Generated File[MLX75305_EvalBoard_Soldermask_Top.gbr]
+   Generated File[MLX75305_EvalBoard_Copper_Signal_Top.gbr]
+   Generated File[MLX75305_EvalBoard_Copper_Signal_Bot.gbr]
+   Generated File[MLX75305_EvalBoard_Soldermask_Bot.gbr]
+   Generated File[MLX75305_EvalBoard_Paste_Bot.gbr]
+   Generated File[MLX75305_EvalBoard_Legend_Bot.gbr]
+   Generated File[MLX75305_EvalBoard_Board_outline.gbr]
+   Generated File[MLX75305_EvalBoard_PCBM_Notes.gbr]
+   Generated File[MLX75305_EvalBoard_PCBD_Notes.gbr]
+   Generated File[MLX75305_EvalBoard_Top_3D_Body.gbr]
+   Generated File[MLX75305_EvalBoard_Bottom_3D_Body.gbr]
+   Generated File[MLX75305_EvalBoard_Top_Courtyard.gbr]
+   Generated File[MLX75305_EvalBoard_Bottom_Courtyard.gbr]
+   Generated File[MLX75305_EvalBoard_Route_Guide.gbr]
+   Generated File[MLX75305_EvalBoard_Keep-out.gbr]
+   Generated File[MLX75305_EvalBoard_Pads_Top.gbr]
+   Generated File[MLX75305_EvalBoard_Pads_Bot.gbr]
+   Generated File[MLX75305_EvalBoard_Other.gbr]
+   Generated File[MLX75305_EvalBoard_Other_1.gbr]
+   Generated File[MLX75305_EvalBoard_Drawing_1.gbr]
+   Generated File[MLX75305_EvalBoard_Drillmap_1.gbr]
+   Generated File[MLX75305_EvalBoard_Profile.gbr]
+   Generated File[MLX75305_EvalBoard.EXTREP]
+   Generated File[MLX75305_EvalBoard.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 19:23:51 On 11.3.2024 ?.
