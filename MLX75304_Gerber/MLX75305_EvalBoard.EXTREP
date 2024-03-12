@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: MLX75305_EvalBoard.GBR   11.3.2024 ?.  19:23:49
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Board outline                           
+.gbr                PCBM Notes                              
+.gbr                PCBD Notes                              
+.gbr                Top 3D Body                             
+.gbr                Bottom 3D Body                          
+.gbr                Top Courtyard                           
+.gbr                Bottom Courtyard                        
+.gbr                Route Guide                             
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Multi-Layer                             
+.gbr                Dielectric                              
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

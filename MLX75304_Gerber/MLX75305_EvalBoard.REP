@@ -1,0 +1,306 @@
+*************************************************************
+FileName = MLX75305_EvalBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : MLX75305_EvalBoard_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MLX75305_EvalBoard_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MLX75305_EvalBoard_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MLX75305_EvalBoard_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MLX75305_EvalBoard_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MLX75305_EvalBoard_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MLX75305_EvalBoard_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MLX75305_EvalBoard_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board outline
+      File : MLX75305_EvalBoard_Board_outline.gbr
+
+    Adding Layer      : Board outline
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : PCBM Notes
+      File : MLX75305_EvalBoard_PCBM_Notes.gbr
+
+    Adding Layer      : PCBM Notes
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MLX75305_EvalBoard_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : MLX75305_EvalBoard_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D11
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Dielectric
+      File : MLX75305_EvalBoard_Other_1.gbr
+
+    Adding Layer      : Dielectric
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : MLX75305_EvalBoard_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : MLX75305_EvalBoard_Other.gbr
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : PCBD Notes
+      File : MLX75305_EvalBoard_PCBD_Notes.gbr
+
+    Adding Layer      : PCBD Notes
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Route Guide
+      File : MLX75305_EvalBoard_Route_Guide.gbr
+
+    Adding Layer      : Route Guide
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MLX75305_EvalBoard_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MLX75305_EvalBoard_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : MLX75305_EvalBoard_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : MLX75305_EvalBoard_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : MLX75305_EvalBoard_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MLX75305_EvalBoard_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : MLX75305_EvalBoard_Profile.gbr
+
+
+Used DCodes :
+    D26
+*************************************************************
+

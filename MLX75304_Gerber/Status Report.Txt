@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MLX75305_EvalBoard.PrjPcb]
+   Generated File[MLX75305_EvalBoard.TXT]
+   Generated File[MLX75305_EvalBoard.LDP]
+   Generated File[MLX75305_EvalBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:56:09 On 12.3.2024 ?.
