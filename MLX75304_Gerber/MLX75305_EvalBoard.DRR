@@ -1,14 +1,15 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MLX75305_EvalBoard.PcbDoc   12.3.2024 ?.  5:56:09
+NCDrill File Report For: MLX75305_EvalBoard.PcbDoc   12.3.2024 ?.  16:54:45
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
 ASCII RoundHoles File : MLX75305_EvalBoard.TXT
+EIA File   : MLX75305_EvalBoard.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.711mm (28mil)                                           Round             5         PTH        36.57mm (1.44inch)
-T2      1.1mm (43mil)           +0mm (0mil)/-0.25mm (10mil)       Round             3         PTH        5.08mm (0.20inch)
+T1      28mil (0.711mm)                                           Round             5         PTH        1.44inch (36.57mm)
+T2      43mil (1.1mm)           +0mil (0mm)/-10mil (0.25mm)       Round             3         PTH        0.20inch (5.08mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              8
 
